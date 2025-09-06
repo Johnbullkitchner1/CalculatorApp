@@ -1,0 +1,3 @@
+([('CalculatorApp',
+   '/Users/Kitchner/Desktop/CalculatorApp/dist/CalculatorApp',
+   'EXECUTABLE')],)
